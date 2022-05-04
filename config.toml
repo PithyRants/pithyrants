@@ -1,0 +1,4 @@
+baseURL = 'http://pithyrants.com'
+languageCode = 'en-us'
+title = 'Pithy'
+theme = 'ananke'
